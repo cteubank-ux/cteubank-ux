@@ -7,3 +7,5 @@ After graduation I am hoping to work in Bellevue, Washington for none other than
 
 under their IT department. 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=cteubank-ux&theme=dark)
+
