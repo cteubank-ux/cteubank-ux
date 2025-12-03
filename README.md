@@ -1,6 +1,5 @@
 ## Hafa Adai
 
-<!--
 I am currntly studying Full Stack Web Development under the Engineering school at ASU, as well as Computer Science at University of London. 
 After graduation I am hoping to work in Bellevue, Washington for none other than
 
@@ -8,4 +7,3 @@ After graduation I am hoping to work in Bellevue, Washington for none other than
 
 under their IT department. 
 
--->
